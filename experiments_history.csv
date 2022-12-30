@@ -1,0 +1,5 @@
+,model_name,gamma,memory_size,learning_rate,batch_size,exploration_max,exploration_min,exploration_decay,number_of_episodes,max_steps,use_target,training_time,used_episodes,goal_reached
+0,model.hdf5,0.99,100000,0.001,32,1,0.01,0.995,2,1000,True,0,2,False
+1,model,0.99,100000,0.001,32,1,0.01,0.995,2,1000,True,0,2,False
+2,model,0.99,100000,0.001,32,1,0.01,0.995,2,1000,True,0,2,False
+3,model,0.99,100000,0.001,32,1,0.01,0.995,2,1000,True,0,2,False
