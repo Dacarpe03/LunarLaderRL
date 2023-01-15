@@ -1,0 +1,4 @@
+,model_name,gamma,memory_size,learning_rate,batch_size,exploration_max,exploration_min,exploration_decay,number_of_episodes,max_steps,use_target,training_time,used_episodes,goal_reached,last_n_scores,steps_to_update,scores_mean,steps_to_learn,steps_to_explore
+0,model.hdf5,0.99,100000,0.001,32,1,0.01,0.995,2,1000,True,0,2,False,,,,,
+1,model23_64_64_nodr_nobn,0.99,40000,0.001,32,1,0.01,0.995,3000,1000,True,719,1107,True,30.0,100.0,202.08873005500848,4.0,40000.0
+2,model23_64_64_nodr_nobn,0.99,40000,0.001,32,1,0.01,0.995,3000,1000,False,256,3000,False,30.0,100.0,-135.86034652045507,4.0,40000.0

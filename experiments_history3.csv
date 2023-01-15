@@ -1,0 +1,11 @@
+,model_name,gamma,memory_size,learning_rate,batch_size,exploration_max,exploration_min,exploration_decay,number_of_episodes,max_steps,use_target,training_time,used_episodes,goal_reached,last_n_scores,steps_to_update,scores_mean
+0,model.hdf5,0.99,100000,0.001,32,1,0.01,0.995,2,1000,True,0,2,False,,,
+1,model,0.99,100000,0.001,32,1,0.01,0.995,2,1000,True,0,2,False,,,
+2,model,0.99,100000,0.001,32,1,0.01,0.995,2,1000,True,0,2,False,,,
+3,model,0.99,100000,0.001,32,1,0.01,0.995,2,1000,True,0,2,False,,,
+4,model,0.99,100000,0.001,32,1,0.01,0.995,2,1000,True,0,2,False,,,
+5,model,0.99,100000,0.001,32,1,0.01,0.995,1,1000,True,0,1,False,30.0,100.0,-124.09437738620964
+6,model_bs16,0.99,100000,0.001,16,1,0.01,0.995,400,300,True,209,400,False,30.0,100.0,-138.09040346776666
+7,model_bs16,0.99,100000,0.001,64,1,0.01,0.995,400,300,True,207,400,False,30.0,100.0,-21.596931212204087
+8,model_2000ep,0.99,100000,0.001,64,1,0.01,0.995,400,1000,True,282,209,True,10.0,100.0,-9.165357743350103
+9,model_2000ep,0.99,100000,0.001,64,1,0.01,0.995,400,300,True,268,400,False,10.0,100.0,-16.977431473443218
